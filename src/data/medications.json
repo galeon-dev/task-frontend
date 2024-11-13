@@ -1,0 +1,559 @@
+[
+    {
+        "branded_name": "SYNTOCINON 5 U.I/1 ml, solution injectable en ampoule",
+        "key": 6182,
+        "generic_name": "Oxytocine 5 iU/mL solution injectable ampoule",
+        "route": ["intramusculaire", "injectable", "intraveineuse"],
+        "substances_units": [
+            {
+                "substance": "OXYTOCINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 1,
+                "dispensation_quantity": 5,
+                "dispensation_unit": "U.I.",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "OXYTOCINE PANPHARMA 5 UI/1 ml, solution injectable ",
+        "key": 34401,
+        "generic_name": "Oxytocine 5 iU/mL solution injectable ampoule",
+        "route": ["intramusculaire", "injectable", "intraveineuse"],
+        "substances_units": [
+            {
+                "substance": "OXYTOCINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 1,
+                "dispensation_quantity": 5,
+                "dispensation_unit": "U.I.",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "SYNTOCINON 40UI/ML PULV NAS ",
+        "key": 50405,
+        "generic_name": "Oxytocine 40 iU/mL solution nasale",
+        "route": ["nasale"],
+        "substances_units": [
+            {
+                "substance": "OXYTOCINE",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 5,
+                "dispensation_quantity": 200,
+                "dispensation_unit": "UI",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "MYAMBUTOL 1000 MG/10 ML, SOLUTION INJECTABLE (IM-IV) EN AMPOULE",
+        "key": 9128,
+        "generic_name": "Ethambutol 1000 mg solution injectable",
+        "route": ["intramusculaire", "intraveineuse", "injectable"],
+        "substances_units": [
+            {
+                "substance": "ETHAMBUTOL",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 10,
+                "dispensation_quantity": 1000,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "CURETHYL 26 POUR CENT, solution injectable I.V.",
+        "key": 23073,
+        "generic_name": "Ethanol 95 % liquide injectable",
+        "route": ["injectable", "intraveineuse"],
+        "substances_units": [
+            {
+                "substance": "ETHANOL",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 20,
+                "dispensation_quantity": 5.2,
+                "dispensation_unit": "ML",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "RHINOTROPHYL, SOLUTION POUR PULVERISATION NASALE",
+        "key": 1572,
+        "generic_name": "Ethanolamine 30 mg/mL solution nasale",
+        "route": ["nasale"],
+        "substances_units": [
+            {
+                "substance": "ETHANOLAMINE",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 20,
+                "dispensation_quantity": 600,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "RHINOTROPHYL, solution pour pulverisation nasale",
+        "key": 40743,
+        "generic_name": "Ethanolamine 30 mg/mL solution nasale",
+        "route": ["nasale"],
+        "substances_units": [
+            {
+                "substance": "ETHANOLAMINE",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 12,
+                "dispensation_quantity": 360,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "ALCOOL MODIFIE GIFRER, SOLUTION POUR APPLICATION LOCALE",
+        "key": 7956,
+        "generic_name": "Alcool modifie solution cutanee",
+        "route": ["cutanee"],
+        "substances_units": [
+            {
+                "substance": "ETHANOL",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 250,
+                "dispensation_quantity": 175,
+                "dispensation_unit": "ML",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "LARMES ARTIFICIELLES MARTINET 1,4 POUR CENT, COLLYRE EN SOLUTION",
+        "key": 9876,
+        "generic_name": "Chlorure de sodium 14 mg/mL collyre",
+        "route": ["ophtalmique"],
+        "substances_units": [
+            {
+                "substance": "SODIUM",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 10,
+                "dispensation_quantity": 55,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "LARMABAK 0,9 POUR CENT, COLLYRE",
+        "key": 11313,
+        "generic_name": "Chlorure de sodium 0,9% (9 mg/mL) collyre",
+        "route": ["ophtalmique"],
+        "substances_units": [
+            {
+                "substance": "SODIUM",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 10,
+                "dispensation_quantity": 35,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "CYTEAL, SOLUTION MOUSSANTE",
+        "key": 4534,
+        "generic_name": "Hexamidine 1 mg/g + Chlorhexidine 0,005 mL/g + Chlorocresol 3 mg/g savon liquide",
+        "route": ["cutanee", "vaginale"],
+        "substances_units": [
+            {
+                "substance": "HEXAMIDINE",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 500,
+                "dispensation_quantity": 500,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "CYTEAL, SOLUTION MOUSSANTE",
+        "key": 9142,
+        "generic_name": "Hexamidine 1 mg/g + Chlorhexidine 0,005 mL/g + Chlorocresol 3 mg/g savon liquide",
+        "route": ["cutanee", "vaginale"],
+        "substances_units": [
+            {
+                "substance": "HEXAMIDINE",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 250,
+                "dispensation_quantity": 250,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "MORPHINE (CHLORHYDRATE) LAVOISIER 10 MG/1 ML, SOLUTION INJECTABLE",
+        "key": 33,
+        "generic_name": "Chlorhydrate de morphine 10 mg/mL solution injectable",
+        "route": [
+            "intraveineuse",
+            "intrarachidienne (intrathecale)",
+            "sous-cutanee",
+            "peridurale",
+            "injectable",
+            "intraventriculaire"
+        ],
+        "substances_units": [
+            {
+                "substance": "MORPHINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 1,
+                "dispensation_quantity": 10,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "MORPHINE (CHLORHYDRATE) LAVOISIER 20 MG/ML, SOLUTION INJECTABLE EN ",
+        "key": 34,
+        "generic_name": "Chlorhydrate de morphine 20 mg/mL solution injectable",
+        "route": [
+            "intrarachidienne (intrathecale)",
+            "intraventriculaire",
+            "injectable",
+            "peridurale",
+            "sous-cutanee",
+            "intraveineuse"
+        ],
+        "substances_units": [
+            {
+                "substance": "MORPHINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 1,
+                "dispensation_quantity": 20,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "BISEPTINE, SOLUTION POUR APPLICATION LOCALE",
+        "key": 1184,
+        "generic_name": "Chlorhexidine 2,5 mg/mL + Benzalkonium 0,25 mg/mL + Alcool benzylique 0,04 mL/mL solution cutanee",
+        "route": ["cutanee"],
+        "substances_units": [
+            {
+                "substance": "CHLORHEXIDINE",
+                "container": "FLACON(S) PULVERISATEUR(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 100,
+                "dispensation_quantity": 250,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S) PULVERISATEUR(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "SEPTEAL, SOLUTION POUR APPLICATION LOCALE",
+        "key": 2751,
+        "generic_name": "Chlorhexidine 5 mg/mL solution alcoolique cutanee",
+        "route": ["cutanee"],
+        "substances_units": [
+            {
+                "substance": "CHLORHEXIDINE",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 250,
+                "dispensation_quantity": 1250,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "CHLORURE DE SODIUM LAVOISIER 0,9 POUR CENT, solution injectable",
+        "key": 3515,
+        "generic_name": "Chlorure de sodium 0,9% (9 mg/mL) solution injectable",
+        "route": ["sous-cutanee", "intramusculaire", "intraveineuse", "injectable"],
+        "substances_units": [
+            {
+                "substance": "CHLORURE DE SODIUM",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 500,
+                "dispensation_quantity": 4.5,
+                "dispensation_unit": "G",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "CHLORURE DE SODIUM LAVOISIER 0,9 POUR CENT, solution injectable ",
+        "key": 3517,
+        "generic_name": "Chlorure de sodium 0,9% (9 mg/mL) solution injectable",
+        "route": ["intramusculaire", "intraveineuse", "sous-cutanee", "injectable"],
+        "substances_units": [
+            {
+                "substance": "CHLORURE DE SODIUM",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 250,
+                "dispensation_quantity": 2.25,
+                "dispensation_unit": "G",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "ALODONT, SOLUTION POUR BAIN DE BOUCHE",
+        "key": 1647,
+        "generic_name": "Chlorbutanol 0,5 mg/g + Cetylpyridinium 0,05 mg/g + Eugenol 0,04 mg/g bain de bouche",
+        "route": ["buccale"],
+        "substances_units": [
+            {
+                "substance": "CETYLPYRIDINIUM",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 200,
+                "dispensation_quantity": 10,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "CHLORHYDRATE DE LIDOCAINE RENAUDIN 10 mg/ml, solution injectable",
+        "key": 12753,
+        "generic_name": "Lidocaine 10 mg/mL solution injectable",
+        "route": [
+            "intra-articulaire",
+            "peri-articulaire",
+            "sous-cutanee",
+            "peridurale",
+            "injectable",
+            "perineurale",
+            "intra-arterielle"
+        ],
+        "substances_units": [
+            {
+                "substance": "LIDOCAINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 5,
+                "dispensation_quantity": 50,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "PROCAINE CHL) LAVOISIER 50 MG/5 ML, SOLUTION INJECTABLE",
+        "key": 18036,
+        "generic_name": "Procaine 10 mg/mL solution injectable",
+        "route": ["intradermique", "sous-cutanee", "injectable", "perineurale"],
+        "substances_units": [
+            {
+                "substance": "PROCAINE",
+                "container": "AMPOULE(S) BOUTEILLE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 5,
+                "dispensation_quantity": 50,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "CADDERA 100 mmol/L, solution pour perfusion",
+        "key": 48832,
+        "generic_name": "Chlorure de calcium 100 mmol/L solution injectable",
+        "route": ["dans circuit d'hemodialyse"],
+        "substances_units": [
+            {
+                "substance": "CALCIUM",
+                "container": "POCHE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 1500,
+                "dispensation_quantity": 150,
+                "dispensation_unit": "MMOL",
+                "nature_ucd": "POCHE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "PROCAINE (CHL) LAVOISIER 100 MG/5 ML, SOLUTION INJECTABLE",
+        "key": 18039,
+        "generic_name": "Procaine 20 mg/mL solution injectable",
+        "route": ["perineurale", "intradermique", "sous-cutanee", "injectable"],
+        "substances_units": [
+            {
+                "substance": "PROCAINE",
+                "container": "AMPOULE(S) BOUTEILLE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 5,
+                "dispensation_quantity": 100,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "BALSAMORHINOL, SOLUTION POUR INSTILLATION NASALE",
+        "key": 1545,
+        "generic_name": "Chlorobutanol 3,5 mg/mL + Levomenthol 1,05 mg/mL solution nasale",
+        "route": ["nasale"],
+        "substances_units": [
+            {
+                "substance": "LEVOMENTHOL",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 20,
+                "dispensation_quantity": 21,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "BUPIVACAINE POUR RACHIANESTHESIE AGUETTANT 5 mg/ ml, solution injectable (voie intrarachidienne)",
+        "key": 11809,
+        "generic_name": "Bupivacaine 5 mg/mL solution intrarachidienne",
+        "route": ["intrarachidienne (intrathecale)", "injectable"],
+        "substances_units": [
+            {
+                "substance": "BUPIVACAINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 4,
+                "dispensation_quantity": 20,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "BUPIVACAINE VIATRIS 20 mg /4 ml, solution injectable pour voie intra rachidienne en ampoule",
+        "key": 13882,
+        "generic_name": "Bupivacaine 5 mg/mL solution intrarachidienne",
+        "route": ["intrarachidienne (intrathecale)", "injectable"],
+        "substances_units": [
+            {
+                "substance": "BUPIVACAINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 4,
+                "dispensation_quantity": 20,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "BUPIVACAINE AGUETTANT 2,5 mg/ml, solution injectable",
+        "key": 18059,
+        "generic_name": "Bupivacaine 2,5 mg/mL solution injectable",
+        "route": ["injectable", "intrarachidienne (intrathecale)", "peridurale", "perineurale"],
+        "substances_units": [
+            {
+                "substance": "BUPIVACAINE",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 20,
+                "dispensation_quantity": 50,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "BUPIVACAINE AGUETTANT 5 mg/ml, solution injectable",
+        "key": 18060,
+        "generic_name": "Bupivacaine 5 mg/mL solution injectable",
+        "route": ["intrarachidienne (intrathecale)", "peridurale", "injectable", "perineurale"],
+        "substances_units": [
+            {
+                "substance": "BUPIVACAINE",
+                "container": "FLACON(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 20,
+                "dispensation_quantity": 100,
+                "dispensation_unit": "MG",
+                "nature_ucd": "FLACON(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "ADRENALINE AGUETTANT 1 MG/ML, SOLUTION INJECTABLE EN AMPOULE",
+        "key": 6941,
+        "generic_name": "Adrenaline 1 mg solution injectable",
+        "route": ["sous-cutanee", "intraveineuse", "intramusculaire", "injectable"],
+        "substances_units": [
+            {
+                "substance": "ADRENALINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 1,
+                "dispensation_quantity": 1,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "ADRENALINE AGUETTANT 1 mg/ml SANS SULFITE, solution injectable",
+        "key": 20504,
+        "generic_name": "Adrenaline 1 mg/mL solution injectable",
+        "route": [
+            "intralesionnelle",
+            "intramusculaire",
+            "endotracheo-bronchique",
+            "intra-osseuse",
+            "injectable",
+            "intraveineuse",
+            "sous-cutanee"
+        ],
+        "substances_units": [
+            {
+                "substance": "ADRENALINE",
+                "container": "AMPOULE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 5,
+                "dispensation_quantity": 5,
+                "dispensation_unit": "MG",
+                "nature_ucd": "AMPOULE(S)"
+            }
+        ]
+    },
+    {
+        "branded_name": "ADRENALINE AGUETTANT 0,1 mg/mL sans sulfite, solution injectable en seringue pre-remplie",
+        "key": 39079,
+        "generic_name": "Adrenaline 1 mg solution injectable seringue pre-remplie",
+        "route": ["endotracheo-bronchique", "intraveineuse", "injectable", "intra-osseuse"],
+        "substances_units": [
+            {
+                "substance": "ADRENALINE",
+                "container": "SERINGUE(S) PREREMPLIE(S)",
+                "unit_capacity": "ML",
+                "value_capacity": 10,
+                "dispensation_quantity": 1,
+                "dispensation_unit": "MG",
+                "nature_ucd": "SERINGUE(S)"
+            }
+        ]
+    }
+]
